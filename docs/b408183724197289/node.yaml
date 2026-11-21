@@ -1,0 +1,8 @@
+proxies:
+  - name: 🇺🇸美国住宅-URnetwork
+    type: socks5
+    server: 65.49.70.94
+    port: 7135
+    username: "06GVRBG4RNMC9OCAO09192L2804E5F7PG5OIH8M3MFN9CODJOPBE85RODC"
+    password: x
+    dialer-proxy: 自动选择
