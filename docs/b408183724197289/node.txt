@@ -1,1 +1,1 @@
-socks://06GVRBCT1O7M5B2D6R4LNS3U0F6JTEQMOFGOEQ7U4T59D3142QHAD4H6IG:@crisp.bringyour.com:7129#URnetwork-US-San-Diego-Charter-Communications-Inc-Clean
+socks://06H0T03GQFFMAA0VC63QMBFG8SLC5DKFT0B7T61LHOJDAE2N2PMKKGNPC0:@fireside.bringyour.com:7141#URnetwork-US-Oklahoma-City-AT&T-Enterprises,-LLC-Clean
