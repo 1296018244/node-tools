@@ -1,1 +1,1 @@
-socks://06H0T03GQFFMAA0VC63QMBFG8SLC5DKFT0B7T61LHOJDAE2N2PMKKGNPC0:@fireside.bringyour.com:7141#URnetwork-US-Oklahoma-City-AT&T-Enterprises,-LLC-Clean
+socks://06H1HBSPVCM53MFT2B7OQAQERB4FKPQIIQ0SDLF6BD1C9UVC72V9RUA794:@fireside.bringyour.com:7117#URnetwork-US-Northbrook-Comcast-Cable-Communications,-LLC-Clean
